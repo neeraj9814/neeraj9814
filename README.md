@@ -1,16 +1,22 @@
-## Hi there 👋
+A passionate developer from India
 
-<!--
-**neeraj9814/neeraj9814** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🔭 I’m currently working on Backend
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning Spring Boot, Spring AI
+
+💬 Ask me about Java,Javascript,NodeJs,ExpressJs,MongoDB,SQL
+
+📫 How to reach me abhinendrayadav3@gmail.com
+
+Connect with me:
+www.linkedin.com/in/abhinendrasingh3 _avvhii
+
+Languages and Tools:
+bootstrap c cplusplus css3 django git html5 mysql python
+
+---
+🐍 Contribution Snake
+Snake animation
+
+
