@@ -1,3 +1,9 @@
+about me *
+
+MCA (AI & DS) student
+
+AI/ML : Machine Learning , Pandas 
+
 A passionate developer from India
 
 
