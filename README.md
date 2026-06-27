@@ -7,10 +7,10 @@ A passionate developer from India
 
 💬 Ask me about Java,Javascript,NodeJs,ExpressJs,MongoDB,SQL
 
-📫 How to reach me abhinendrayadav3@gmail.com
+📫 How to reach me singhneeraj1227@gmail.com
 
 Connect with me:
-www.linkedin.com/in/abhinendrasingh3 _avvhii
+
 
 Languages and Tools:
 bootstrap c cplusplus css3 django git html5 mysql python
